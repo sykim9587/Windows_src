@@ -1,0 +1,4 @@
+﻿  dynamic_1.c
+C:\Users\user\source\repos\Day006\Project2\dynamic_1.c(24,19): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\Day006\Project2\dynamic_1.c(33,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project2.vcxproj -> C:\Users\user\source\repos\Day006\Debug\Project2.exe

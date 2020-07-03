@@ -1,0 +1,3 @@
+﻿  pinter_5.c
+C:\c_language\source\Day004\Pointer_5\pinter_5.c(47,6): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+  Pointer_5.vcxproj -> C:\c_language\source\Day004\Debug\Pointer_5.exe

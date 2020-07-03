@@ -1,0 +1,4 @@
+﻿  exam_01.c
+C:\Users\user\source\repos\Day_005\Exam_01\exam_01.c(3,10): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\source\repos\Day_005\Exam_01\exam_01.c(12,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  Exam_01.vcxproj -> C:\Users\user\source\repos\Day_005\Debug\Exam_01.exe

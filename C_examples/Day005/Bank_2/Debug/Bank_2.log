@@ -1,0 +1,7 @@
+﻿  bank_2.c
+C:\Users\user\source\repos\Day_005\Bank_2\bank_2.c(38,18): warning C4020: 'output': 실제 매개 변수가 너무 많습니다.
+C:\Users\user\source\repos\Day_005\Bank_2\bank_2.c(21,10): warning C4101: 'balance' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\Day_005\Bank_2\bank_2.c(21,6): warning C4101: 'id' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\Day_005\Bank_2\bank_2.c(72,27): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\user\source\repos\Day_005\Bank_2\bank_2.c(77,11): error C2065: 'k': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Day_005\Bank_2\bank_2.c(81,35): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.

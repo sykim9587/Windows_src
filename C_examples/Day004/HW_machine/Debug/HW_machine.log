@@ -1,0 +1,5 @@
+﻿  machine.c
+C:\c_language\source\Day004\HW_machine\machine.c(49,33): warning C4047: '함수': 'int'의 간접 참조 수준이 'int [4]'과(와) 다릅니다.
+C:\c_language\source\Day004\HW_machine\machine.c(49,33): warning C4024: 'buy': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\c_language\source\Day004\HW_machine\machine.c(81,38): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+  HW_machine.vcxproj -> C:\c_language\source\Day004\Debug\HW_machine.exe

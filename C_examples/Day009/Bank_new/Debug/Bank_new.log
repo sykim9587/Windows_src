@@ -1,0 +1,4 @@
+﻿  banknew.c
+C:\c_language\source\Day009\Bank_new\banknew.c(71,10): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\c_language\source\Day009\Bank_new\banknew.c(189,6): warning C4101: 'money' :참조되지 않은 지역 변수입니다.
+  Bank_new.vcxproj -> C:\c_language\source\Day009\Debug\Bank_new.exe

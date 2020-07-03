@@ -1,0 +1,5 @@
+                                      <Book Title>        <Book Author>        <Rent Status>          <member ID>
+
+                                            travel                          so so                   no                              0
+                                                aa                             bb                   no                             10
+                                                cc                             cc                   no                              0

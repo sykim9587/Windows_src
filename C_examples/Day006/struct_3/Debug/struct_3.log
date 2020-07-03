@@ -1,0 +1,4 @@
+﻿  structure_3.c
+C:\Users\user\source\repos\Day006\struct_3\structure_3.c(17,9): warning C4101: 'distance' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\Day006\struct_3\structure_3.c(13,8): warning C4101: 'third' :참조되지 않은 지역 변수입니다.
+  struct_3.vcxproj -> C:\Users\user\source\repos\Day006\Debug\struct_3.exe

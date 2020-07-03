@@ -1,0 +1,3 @@
+﻿  struct_3.c
+C:\Users\user\source\repos\Day006\struct_4\struct_3.c(28,9): warning C4101: 'ac' :참조되지 않은 지역 변수입니다.
+  struct_4.vcxproj -> C:\Users\user\source\repos\Day006\Debug\struct_4.exe

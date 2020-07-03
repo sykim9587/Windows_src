@@ -1,0 +1,5 @@
+﻿  bank.c
+C:\Users\user\source\repos\Day006\Project5\bank.c(38,28): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\Day006\Project5\bank.c(63,37): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\Day006\Project5\bank.c(73,10): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+  Project5.vcxproj -> C:\Users\user\source\repos\Day006\Debug\Project5.exe

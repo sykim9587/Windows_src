@@ -1,0 +1,3 @@
+﻿  exam_07.c
+C:\c_language\source\Day009\Project6\exam_07.c(13,14): warning C4101: 'ss' :참조되지 않은 지역 변수입니다.
+  Project6.vcxproj -> C:\c_language\source\Day009\Debug\Project6.exe
