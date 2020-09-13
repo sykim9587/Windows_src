@@ -1,6 +1,3 @@
-# Windows_src
-files from Windows
-
 # description
 ## Arduino_source 
 -codes from small Arduino related projects (including several sensors)
